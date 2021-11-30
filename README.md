@@ -1,3 +1,3 @@
 # Navigation
 
-Developed with Unreal Engine 4
+Experiments in Navigation in Unreal Engine. See my [blog](https://snorristurluson.github.io) for more information.
